@@ -1,0 +1,49 @@
+**Problem Definition**
+--------------------
+                 In any company developer faces problems in programming 
+and assembling all the components in one page or diagram.
+ all this problem resolve 
+when we use Agile Methodology, creat use case Diagram etc.a webiste needs a
+perfect usecase diagram so that developer can easily make an application and synchronize 
+with application.
+
+
+-->Create a WEB application for Contoso Employees to access corporate 
+customers accounting related information and deploy that project into 
+google cloud platform using google services through which it can be 
+accessable to all the employee's
+==========================================================================================
+
+
+ **Multinational Company case study**
+-------------------------------------
+
+*Functioanl Requirement:->
+
+         i) Employee information like name,office center etc
+	ii) Empoloyee account information like account number etc
+       iii) Access to google cloud
+	iv) user login,
+	 v) user validation,
+	vi) synchronization among the pages
+       vii) session time,
+===========================================================================================
+			
+*Non Functioanl Requirement:->	
+
+i)  Agile(Can be upgradable at any stage and it must be easy and fast)
+	ii) Robustness
+	iii)Ease of access(Easy to use UI)
+         iv)usablity,
+         v)performance,
+         vi)relibility
+=============================================================================================		
+
+
+  
+
+
+
+ 
+	 
+	
